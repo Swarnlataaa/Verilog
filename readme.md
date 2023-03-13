@@ -3,6 +3,7 @@
 
 
 - [Intro to verilog](https://web.mit.edu/6.111/www/f2017/handouts/L03_4.pdf)
+- FPGA stands for “Field Programmable Gate Array“. As you may already know, FPGA essentially is a huge array of gates that can be programmed and reconfigured any time anywhere. “Huge array of gates” is an oversimplified description of FPGA. FPGA is indeed much more complex than a simple array of gates. Some FPGAs have built-in hard blocks such as Memory controllers, high-speed communication interfaces, PCIe Endpoints, etc. But the point is, there are a lot of gates inside the FPGA which can be arbitrarily connected together to make a circuit of your choice. 
 
 
 ## LIST OF EXPERIMENTS
